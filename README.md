@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="88%" src="https://raw.githubusercontent.com/rupeshpoojary9/rupeshpoojary9/main/assets/hero.svg?v=2" alt="Rupesh Poojary — AI Engineer" />
+<img width="88%" src="https://raw.githubusercontent.com/rupeshpoojary9/rupeshpoojary9/main/assets/hero.svg?v=3" alt="Rupesh Poojary — AI Engineer" />
 
 <p>
   <a href="https://www.linkedin.com/in/rupeshpoojary"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
