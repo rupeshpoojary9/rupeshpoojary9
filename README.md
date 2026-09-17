@@ -60,30 +60,25 @@ class RupeshPoojary:
 
 ### 🚀 Featured Projects
 
-<div align="center">
+> 🤖 [**multi-agent-orchestrator**](https://github.com/rupeshpoojary9/multi-agent-orchestrator) &nbsp;·&nbsp; ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+>
+> A meta-agent plans a task DAG, routes to web and typed-API agents, runs a plan-verify-iterate loop, and synthesizes new sub-agents at runtime when a capability is missing.
+> **Result:** `100%` on a 26-task eval suite &nbsp;·&nbsp; `100%` verifier catch rate on injected failures.
 
-<a href="https://github.com/rupeshpoojary9/multi-agent-orchestrator">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=rupeshpoojary9&repo=multi-agent-orchestrator&hide_border=true&theme=tokyonight&title_color=7aa2f7&icon_color=7aa2f7" alt="multi-agent-orchestrator" />
-</a>
-<a href="https://github.com/rupeshpoojary9/rag-eval-benchmark">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=rupeshpoojary9&repo=rag-eval-benchmark&hide_border=true&theme=tokyonight&title_color=7aa2f7&icon_color=7aa2f7" alt="rag-eval-benchmark" />
-</a>
-<br/>
-<a href="https://github.com/rupeshpoojary9/bulwark">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=rupeshpoojary9&repo=bulwark&hide_border=true&theme=tokyonight&title_color=7aa2f7&icon_color=7aa2f7" alt="bulwark" />
-</a>
-<a href="https://github.com/rupeshpoojary9/genai-refinement-advisor">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=rupeshpoojary9&repo=genai-refinement-advisor&hide_border=true&theme=tokyonight&title_color=7aa2f7&icon_color=7aa2f7" alt="genai-refinement-advisor" />
-</a>
+> 🔍 [**rag-eval-benchmark**](https://github.com/rupeshpoojary9/rag-eval-benchmark) &nbsp;·&nbsp; ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+>
+> Reproducible retrieval benchmark: BM25 vs dense vs hybrid (RRF) vs hybrid + rerank over a hand-labelled corpus. Local models, no API key.
+> **Result:** hybrid `recall@5 = 0.925` vs BM25 baseline `0.738`.
 
-</div>
+> 🛡️ [**bulwark**](https://github.com/rupeshpoojary9/bulwark) &nbsp;·&nbsp; ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+>
+> Local-first LLM guardrails toolkit: layered PII, injection, secrets, and schema validators with a built-in eval harness.
+> **Result:** stops unsafe inputs and outputs before they reach the model or the user.
 
-**Why these matter**
-
-- 🤖 **multi-agent-orchestrator** — a meta-agent plans a task DAG, routes to web and typed-API agents, runs a plan-verify-iterate loop, and synthesizes new sub-agents at runtime. Scores **100%** on a 26-task eval suite with a **100%** verifier catch rate on injected failures.
-- 🔍 **rag-eval-benchmark** — BM25 vs dense vs hybrid (RRF) vs hybrid + rerank over a hand-labelled corpus, local models, no API key. Hybrid reaches **recall@5 of 0.925** against a BM25 baseline of **0.738**.
-- 🛡️ **bulwark** — local-first LLM guardrails: layered PII, injection, secrets, and schema validators with a built-in eval harness. Stops unsafe inputs and outputs before they ever reach the model or the user.
-- 🧭 **genai-refinement-advisor** — recommends the cheapest refinement level (prompt vs RAG vs agent vs fine-tune) that clears a use case's quality bar, via cost-performance Pareto benchmarking.
+> 🧭 [**genai-refinement-advisor**](https://github.com/rupeshpoojary9/genai-refinement-advisor) &nbsp;·&nbsp; ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+>
+> Recommends the cheapest refinement level (prompt vs RAG vs agent vs fine-tune) that clears a use case's quality bar, via cost-performance Pareto benchmarking.
+> **Result:** turns "which approach do we even need" into a data-backed decision.
 
 ---
 
@@ -91,20 +86,21 @@ class RupeshPoojary:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rupeshpoojary9&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&title_color=7aa2f7&icon_color=7aa2f7" alt="github stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupeshpoojary9&layout=compact&hide_border=true&theme=tokyonight&title_color=7aa2f7&langs_count=8" alt="top languages" />
+<img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rupeshpoojary9&theme=tokyonight" alt="profile details" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rupeshpoojary9&hide_border=true&theme=tokyonight&ring=7aa2f7&fire=7aa2f7&currStreakLabel=7aa2f7" alt="streak stats" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rupeshpoojary9&theme=tokyonight" alt="repos per language" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rupeshpoojary9&theme=tokyonight" alt="most commit language" />
 
 <br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=rupeshpoojary9&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=ffffff&area=true&area_color=24283b" alt="activity graph" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rupeshpoojary9&theme=tokyonight" alt="stats" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rupeshpoojary9&theme=tokyonight&utcOffset=5.5" alt="productive time" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=rupeshpoojary9&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies" />
+<img src="https://streak-stats.demolab.com/?user=rupeshpoojary9&hide_border=true&theme=tokyonight&ring=7aa2f7&fire=7aa2f7&currStreakLabel=7aa2f7" alt="streak stats" />
 
 </div>
 
