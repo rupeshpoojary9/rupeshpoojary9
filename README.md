@@ -71,6 +71,19 @@ Recommends the cheapest refinement level (prompt vs RAG vs agent vs fine-tune) t
 
 </td>
 </tr>
+<tr>
+<td width="100%" valign="top" colspan="2">
+
+**[▸ poorjev](https://github.com/rupeshpoojary9/poorjev)**
+
+Open-source, local "System One" decision layer for LLM apps: typed decisions with provably calibrated confidence. No API key, no waitlist.
+
+`ECE 0.170 → 0.071` &nbsp; `zero accuracy loss`
+
+<sub>![py](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=7aa2f7) ![stars](https://img.shields.io/github/stars/rupeshpoojary9/poorjev?style=flat-square&color=414868&labelColor=0d1117&logo=github)</sub>
+
+</td>
+</tr>
 </table>
 
 &nbsp;
