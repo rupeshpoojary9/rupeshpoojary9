@@ -72,7 +72,7 @@ Recommends the cheapest refinement level (prompt vs RAG vs agent vs fine-tune) t
 </td>
 </tr>
 <tr>
-<td width="100%" valign="top" colspan="2">
+<td width="50%" valign="top">
 
 **[▸ poorjev](https://github.com/rupeshpoojary9/poorjev)**
 
@@ -81,6 +81,17 @@ Open-source, local "System One" decision layer for LLM apps: typed decisions wit
 `ECE 0.170 → 0.071` &nbsp; `zero accuracy loss`
 
 <sub>![py](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=7aa2f7) ![stars](https://img.shields.io/github/stars/rupeshpoojary9/poorjev?style=flat-square&color=414868&labelColor=0d1117&logo=github)</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**[▸ opie](https://github.com/rupeshpoojary9/opie)**
+
+Image to validated, personalized food-product intelligence: multi-agent extraction, a misleading front-of-pack claim detector, and a data flywheel that lifts attribute F1 across rounds.
+
+`misleading recall 0.936` &nbsp; `F1 0.966`
+
+<sub>![py](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=7aa2f7) ![stars](https://img.shields.io/github/stars/rupeshpoojary9/opie?style=flat-square&color=414868&labelColor=0d1117&logo=github)</sub>
 
 </td>
 </tr>
