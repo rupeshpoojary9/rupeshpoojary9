@@ -7,6 +7,12 @@
 <p>
   <a href="https://www.linkedin.com/in/rupeshpoojary"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   &nbsp;
+  <a href="https://x.com/rupeshpoojary_"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+  &nbsp;
+  <a href="https://dev.to/rupesh_poojary_ce8e5e7994"><img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" alt="DEV.to" /></a>
+  &nbsp;
+  <a href="https://medium.com/@rupeshpoojary"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium" /></a>
+  &nbsp;
   <a href="mailto:poojary.rupesh12@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   &nbsp;
   <a href="https://github.com/rupeshpoojary9"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
