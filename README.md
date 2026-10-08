@@ -32,6 +32,17 @@ I build the layer that makes language models trustworthy: orchestration that ver
 <tr>
 <td width="50%" valign="top">
 
+**[▸ OpenHarnX](https://github.com/rupeshpoojary9/OpenHarnX)**
+
+Open-source verifier for code written by AI coding agents: locked tests, sandboxed checks, a review brief. No model call decides the verdict, checks that ran do.
+
+`PyPI 0.1.1` &nbsp; `zero model calls`
+
+<sub>![py](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=7aa2f7) ![stars](https://img.shields.io/github/stars/rupeshpoojary9/OpenHarnX?style=flat-square&color=414868&labelColor=0d1117&logo=github)</sub>
+
+</td>
+<td width="50%" valign="top">
+
 **[▸ multi-agent-orchestrator](https://github.com/rupeshpoojary9/multi-agent-orchestrator)**
 
 A meta-agent plans a task DAG, routes steps to web and typed-API agents, runs a plan-verify-iterate loop, and synthesizes new sub-agents at runtime.
@@ -41,6 +52,8 @@ A meta-agent plans a task DAG, routes steps to web and typed-API agents, runs a 
 <sub>![py](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=7aa2f7) ![stars](https://img.shields.io/github/stars/rupeshpoojary9/multi-agent-orchestrator?style=flat-square&color=414868&labelColor=0d1117&logo=github)</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **[▸ rag-eval-benchmark](https://github.com/rupeshpoojary9/rag-eval-benchmark)**
@@ -52,8 +65,6 @@ BM25 vs dense vs hybrid (RRF) vs hybrid + rerank over a hand-labelled corpus. Lo
 <sub>![py](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=7aa2f7) ![stars](https://img.shields.io/github/stars/rupeshpoojary9/rag-eval-benchmark?style=flat-square&color=414868&labelColor=0d1117&logo=github)</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 **[▸ bulwark](https://github.com/rupeshpoojary9/bulwark)**
@@ -65,6 +76,8 @@ Local-first LLM guardrails: layered PII, injection, secrets, and schema validato
 <sub>![py](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=7aa2f7) ![stars](https://img.shields.io/github/stars/rupeshpoojary9/bulwark?style=flat-square&color=414868&labelColor=0d1117&logo=github)</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **[▸ genai-refinement-advisor](https://github.com/rupeshpoojary9/genai-refinement-advisor)**
@@ -76,8 +89,6 @@ Recommends the cheapest refinement level (prompt vs RAG vs agent vs fine-tune) t
 <sub>![py](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=7aa2f7) ![stars](https://img.shields.io/github/stars/rupeshpoojary9/genai-refinement-advisor?style=flat-square&color=414868&labelColor=0d1117&logo=github)</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 **[▸ poorjev](https://github.com/rupeshpoojary9/poorjev)**
@@ -89,6 +100,8 @@ Open-source, local "System One" decision layer for LLM apps: typed decisions wit
 <sub>![py](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=7aa2f7) ![stars](https://img.shields.io/github/stars/rupeshpoojary9/poorjev?style=flat-square&color=414868&labelColor=0d1117&logo=github)</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **[▸ opie](https://github.com/rupeshpoojary9/opie)**
@@ -100,6 +113,7 @@ Image to validated, personalized food-product intelligence: multi-agent extracti
 <sub>![py](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=7aa2f7) ![stars](https://img.shields.io/github/stars/rupeshpoojary9/opie?style=flat-square&color=414868&labelColor=0d1117&logo=github)</sub>
 
 </td>
+<td width="50%" valign="top"></td>
 </tr>
 </table>
 
